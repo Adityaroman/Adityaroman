@@ -18,7 +18,7 @@ Searching for meaning in patterns unseen."*
 ## 📫 How to Reach Me  
 - **Email:** [adityasharmagrd@gmail.com](mailto:adityasharmagrd@gmail.com)  
 - **LinkedIn:** [Aditya Sharma](https://www.linkedin.com/in/adityasharmagrd/)
-- **My_Resume!:** [Aditya Sharma](https://adityaroman.github.io/My_Resume-_Recent/)
+- **My_Resume!:** [Aditya Sharma](https://adishots-8da27.web.app)
   
 ## 🌅 Fun Fact  
 My favorite place is **Netarhat’s Magnolia Sunset Point** — there's something magical about watching the sun dip below the horizon, leaving behind shades of orange and quiet thoughts.  
