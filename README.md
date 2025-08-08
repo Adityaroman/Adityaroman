@@ -66,11 +66,29 @@
 📫 How to Reach Me
 </h3>
 
-<p align="center" style="font-size: 16px;">
-📧 <b>Email:</b> <a href="mailto:adityasharmagrd@gmail.com" style="color:#FF4500;">adityasharmagrd@gmail.com</a>  
-<br>🔗 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/adityasharmagrd/" style="color:#228B22;">Aditya Sharma</a>  
-<br>📄 <b>My Resume:</b> <a href="https://adishots-8da27.web.app" style="color:#8A2BE2;">Click Here</a>  
+<div align="center" style="
+    background-image: url('https://www.transparenttextures.com/patterns/diamond-upholstery.png');
+    background-color: #fefefe;
+    border-radius: 12px;
+    padding: 20px;
+    max-width: 500px;
+    margin: auto;
+    border: 2px solid #ff6600;
+">
+
+<p style="font-size:16px;">
+💌 <b>Email:</b> <a href="mailto:adityasharmagrd@gmail.com" style="color:#000; font-weight:bold;">adityasharmagrd@gmail.com</a>
 </p>
+
+<p style="font-size:16px;">
+🔗 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/adityasharmagrd/" style="color:#000; font-weight:bold;">Aditya Sharma</a>
+</p>
+
+<p style="font-size:16px;">
+📄 <b>My Resume:</b> <a href="https://adishots-8da27.web.app" style="color:#000; font-weight:bold;">Click Here</a>
+</p>
+
+</div>
 
 ---
 
