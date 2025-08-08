@@ -1,3 +1,4 @@
+<!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Aditya Sharma</h1>
 <h3 align="center">Enthusiastic Software Developer | Building Innovative Solutions with Code</h3>
 
@@ -38,10 +39,10 @@
 ---
 
 ### 📌 Projects:
-- **[HealthAnalysisProject](https://github.com/Adityaroman/HealthAnalysisProject)**
+- **[HealthAnalysisProject](https://github.com/Adityaroman/HealthAnalysisProject)**  
   Predicting disease outbreaks using location-based health data with visual charts for better health planning. *(Python, Pandas, Matplotlib, Seaborn)*
 
-- **[Browser Permission Access Awareness](https://github.com/Adityaroman/Browser-Permission-Access-Awareness)**
+- **[Browser Permission Access Awareness](https://github.com/Adityaroman/Browser-Permission-Access-Awareness)**  
   Web app to demonstrate browser permission vulnerabilities, promoting digital safety. *(HTML, CSS, JavaScript, Firebase)*
 
 ---
@@ -64,17 +65,33 @@
 </h3>
 
 <p align="center">
-  <a href="https://adishots-8da27.web.app" target="_blank">
-    <img src="https://raw.githubusercontent.com/Adityaroman/Adityaroman/main/contact-card.png" alt="Contact Information Card" width="600"/>
-  </a>
-</p>
+<table width="100%">
+<tr>
+<td align="center" background="https://i.ibb.co/jwz0FFm/traditional-light-pattern.jpg" style="background-size:cover; padding:30px;">
 
-<p align="center">
-  <b><a href="mailto:adityasharmagrd@gmail.com">Email</a></b>
-  &nbsp;|&nbsp;
-  <b><a href="https://www.linkedin.com/in/adityasharmagrd/">LinkedIn</a></b>
-  &nbsp;|&nbsp;
-  <b><a href="https://adishots-8da27.web.app">My Resume</a></b>
+  <b>💌 Email:</b> <a href="mailto:adityasharmagrd@gmail.com">adityasharmagrd@gmail.com</a>  
+  <br><br>
+  <b>🔗 LinkedIn:</b> <a href="https://www.linkedin.com/in/adityasharmagrd/">Aditya Sharma</a>  
+  <br><br>
+  <b>📄 My Resume:</b> <a href="https://adishots-8da27.web.app">Click Here</a>  
+  <br><br>
+
+  <a href="https://www.linkedin.com/in/adityasharmagrd/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://github.com/Adityaroman" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/adityasharmagrd" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/Aditya_sharmagrd/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+
+</td>
+</tr>
+</table>
 </p>
 
 ---
