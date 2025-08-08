@@ -5,7 +5,7 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🔭 I’m currently working on **Full-Stack Development and AI-Driven Applications**  
+- 🔭 Currently working on **Full-Stack Development and AI-Driven Applications**  
 - 🌱 Exploring **Cloud-Native Technologies, Machine Learning, and DevOps**  
 - 👯 Open to collaborating on **Open-Source Projects, Web Apps, and Data Science Initiatives**  
 - ⚡ Fun fact: *I enjoy solving complex problems, whether it’s debugging code or tackling a tricky puzzle.*  
@@ -67,18 +67,18 @@
 </h3>
 
 <p align="center">
-  <img src="https://i.ibb.co/jwz0FFm/traditional-light-pattern.jpg" alt="Background Pattern" width="80%" />
+  <table>
+    <tr>
+      <td background="https://i.ibb.co/jwz0FFm/traditional-light-pattern.jpg" width="600" height="200" align="center" valign="middle">
+        <div>
+          💌 <b>Email:</b> <a href="mailto:adityasharmagrd@gmail.com">adityasharmagrd@gmail.com</a> <br><br>
+          🔗 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/adityasharmagrd/">Aditya Sharma</a> <br><br>
+          📄 <b>My Resume:</b> <a href="https://adishots-8da27.web.app">Click Here</a>
+        </div>
+      </td>
+    </tr>
+  </table>
 </p>
-
-<div align="center">
-
-💌 **Email:** [adityasharmagrd@gmail.com](mailto:adityasharmagrd@gmail.com)  
-
-🔗 **LinkedIn:** [Aditya Sharma](https://www.linkedin.com/in/adityasharmagrd/)  
-
-📄 **My Resume:** [Click Here](https://adishots-8da27.web.app)  
-
-</div>
 
 ---
 
