@@ -66,30 +66,17 @@
 📫 How to Reach Me
 </h3>
 
-<div align="center" style="
-    background-image: url('https://images.openai.com/thumbnails/url/rpycF3icu1mUUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw6JCizNTQ-JyI7PKjOqMCjwDTF0904Nyo_yNYkITXMPNKgq809K8i_ILMpLzw2qqCwLNjXMN0kziNBVKwYA4cApxg');
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    border-radius: 12px;
-    padding: 25px;
-    max-width: 550px;
-    margin: auto;
-    border: 2px solid #ff6600;
-    box-shadow: 0px 4px 12px rgba(0,0,0,0.15);
-">
-
-<p style="font-size:17px; color:#000; font-weight:bold;">
-💌 Email: <a href="mailto:adityasharmagrd@gmail.com" style="color:#000; font-weight:bold;">adityasharmagrd@gmail.com</a>
+<p align="center">
+  <img src="https://i.ibb.co/jwz0FFm/traditional-light-pattern.jpg" alt="Background Pattern" width="80%" />
 </p>
 
-<p style="font-size:17px; color:#000; font-weight:bold;">
-🔗 LinkedIn: <a href="https://www.linkedin.com/in/adityasharmagrd/" style="color:#000; font-weight:bold;">Aditya Sharma</a>
-</p>
+<div align="center">
 
-<p style="font-size:17px; color:#000; font-weight:bold;">
-📄 My Resume: <a href="https://adishots-8da27.web.app" style="color:#000; font-weight:bold;">Click Here</a>
-</p>
+💌 **Email:** [adityasharmagrd@gmail.com](mailto:adityasharmagrd@gmail.com)  
+
+🔗 **LinkedIn:** [Aditya Sharma](https://www.linkedin.com/in/adityasharmagrd/)  
+
+📄 **My Resume:** [Click Here](https://adishots-8da27.web.app)  
 
 </div>
 
