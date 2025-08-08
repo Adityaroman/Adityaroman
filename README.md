@@ -63,37 +63,21 @@
 📫 How to Reach Me
 </h3>
 
-<div align="center" style="
-  background-image: url('https://raw.githubusercontent.com/Adityaroman/Adityaroman/main/how-to-reach-bg.png');
-  background-size: cover;
-  background-position: center;
-  padding: 30px;
-  border-radius: 10px;
-">
-  <p style="font-size:18px; color:white; font-weight:bold;">
-    <a href="mailto:adityasharmagrd@gmail.com" style="color:#FFD700; text-decoration:none;">📧 Email</a> |
-    <a href="https://www.linkedin.com/in/adityasharmagrd/" style="color:#FFD700; text-decoration:none;">🔗 LinkedIn</a> |
-    <a href="https://adishots-8da27.web.app" style="color:#FFD700; text-decoration:none;">📄 My Resume</a>
-  </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Adityaroman/Adityaroman/main/how-to-reach-bg.png" alt="Contact Me Banner" width="600"/>
+</p>
 
-  <p>
-    <a href="https://www.linkedin.com/in/adityasharmagrd/">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/Adityaroman">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="40" width="40" />
-    </a>
-    &nbsp;
-    <a href="https://www.hackerrank.com/adityasharmagrd">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="40" width="40" />
-    </a>
-    &nbsp;
-    <a href="https://leetcode.com/u/Aditya_sharmagrd/">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" width="40" />
-    </a>
-  </p>
-</div>
+<p align="center">
+  <a href="mailto:adityasharmagrd@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/adityasharmagrd/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+   <a href="https://adishots-8da27.web.app">
+    <img src="https://img.shields.io/badge/My%20Resume-FF5722?style=for-the-badge&logo=firebase&logoColor=white" alt="Resume"/>
+  </a>
+</p>
 
 ---
 
