@@ -64,7 +64,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Adityaroman/Adityaroman/main/how-to-reach-bg.png" alt="Contact Me Banner" width="600"/>
+  <img src="https://raw.githubusercontent.com/Adityaroman/Adityaroman/main/contact-banner.png" alt="Contact Me Banner" width="600"/>
 </p>
 
 <p align="center">
