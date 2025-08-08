@@ -4,10 +4,10 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🔭 Currently working on **Full-Stack Development and AI-Driven Applications**  
-- 🌱 Exploring **Cloud-Native Technologies, Machine Learning, and DevOps**  
-- 👯 Open to collaborating on **Open-Source Projects, Web Apps, and Data Science Initiatives**  
-- ⚡ Fun fact: *I enjoy solving complex problems, whether it’s debugging code or tackling a tricky puzzle.*  
+- 🔭 Currently working on **Full-Stack Development and AI-Driven Applications**
+- 🌱 Exploring **Cloud-Native Technologies, Machine Learning, and DevOps**
+- 👯 Open to collaborating on **Open-Source Projects, Web Apps, and Data Science Initiatives**
+- ⚡ Fun fact: *I enjoy solving complex problems, whether it’s debugging code or tackling a tricky puzzle.*
 
 ---
 
@@ -38,25 +38,23 @@
 ---
 
 ### 📌 Projects:
-- **[HealthAnalysisProject](https://github.com/Adityaroman/HealthAnalysisProject)**  
-  Predicting disease outbreaks using location-based health data with visual charts for better health planning. *(Python, Pandas, Matplotlib, Seaborn)*  
+- **[HealthAnalysisProject](https://github.com/Adityaroman/HealthAnalysisProject)**
+  Predicting disease outbreaks using location-based health data with visual charts for better health planning. *(Python, Pandas, Matplotlib, Seaborn)*
 
-- **[Browser Permission Access Awareness](https://github.com/Adityaroman/Browser-Permission-Access-Awareness)**  
-  Web app to demonstrate browser permission vulnerabilities, promoting digital safety. *(HTML, CSS, JavaScript, Firebase)*  
+- **[Browser Permission Access Awareness](https://github.com/Adityaroman/Browser-Permission-Access-Awareness)**
+  Web app to demonstrate browser permission vulnerabilities, promoting digital safety. *(HTML, CSS, JavaScript, Firebase)*
 
 ---
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adityaroman&show_icons=true&locale=en" alt="Aditya's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adityaroman&show_icons=true&locale=en" alt="Aditya's GitHub stats" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityaroman" alt="Aditya's streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityaroman" alt="Aditya's streak stats" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adityaroman&show_icons=true&locale=en&layout=compact" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adityaroman&show_icons=true&locale=en&layout=compact" alt="Top languages" />
 </p>
 
 ---
@@ -86,13 +84,13 @@
 </h3>
 
 <ul>
-  <li style="color:#FF5733;">🔥 <b>Python for Data Science</b> – IBM</li>
-  <li style="color:#33C1FF;">🌐 <b>Responsive Web Development</b> – Johns Hopkins University</li>
-  <li style="color:#9B59B6;">🎨 <b>Foundations of UX Design</b> – Google</li>
-  <li style="color:#2ECC71;">🤖 <b>Machine Learning: Classification</b> – University of Washington</li>
-  <li style="color:#F39C12;">💾 <b>Introduction to Databases</b> – Meta</li>
-  <li style="color:#E74C3C;">🛡 <b>Cyber Security Fundamentals</b> – University of London</li>
-  <li style="color:#1ABC9C;">💡 <b>Career Essentials in GitHub</b> – LinkedIn Learning</li>
+  <li style="color:#FF5733;">🔥 <b>Python for Data Science</b> – IBM</li>
+  <li style="color:#33C1FF;">🌐 <b>Responsive Web Development</b> – Johns Hopkins University</li>
+  <li style="color:#9B59B6;">🎨 <b>Foundations of UX Design</b> – Google</li>
+  <li style="color:#2ECC71;">🤖 <b>Machine Learning: Classification</b> – University of Washington</li>
+  <li style="color:#F39C12;">💾 <b>Introduction to Databases</b> – Meta</li>
+  <li style="color:#E74C3C;">🛡 <b>Cyber Security Fundamentals</b> – University of London</li>
+  <li style="color:#1ABC9C;">💡 <b>Career Essentials in GitHub</b> – LinkedIn Learning</li>
 </ul>
 
 ---
