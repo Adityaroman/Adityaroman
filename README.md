@@ -1,4 +1,3 @@
-<!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Aditya Sharma</h1>
 <h3 align="center">Enthusiastic Software Developer | Building Innovative Solutions with Code</h3>
 
@@ -39,10 +38,10 @@
 ---
 
 ### 📌 Projects:
-- **[HealthAnalysisProject](https://github.com/Adityaroman/HealthAnalysisProject)**  
+- **[HealthAnalysisProject](https://github.com/Adityaroman/HealthAnalysisProject)**
   Predicting disease outbreaks using location-based health data with visual charts for better health planning. *(Python, Pandas, Matplotlib, Seaborn)*
 
-- **[Browser Permission Access Awareness](https://github.com/Adityaroman/Browser-Permission-Access-Awareness)**  
+- **[Browser Permission Access Awareness](https://github.com/Adityaroman/Browser-Permission-Access-Awareness)**
   Web app to demonstrate browser permission vulnerabilities, promoting digital safety. *(HTML, CSS, JavaScript, Firebase)*
 
 ---
@@ -64,35 +63,37 @@
 📫 How to Reach Me
 </h3>
 
-<p align="center">
-<table width="100%">
-<tr>
-<td align="center" background="https://i.ibb.co/jwz0FFm/traditional-light-pattern.jpg" style="background-size:cover; padding:30px;">
+<div align="center" style="
+  background-image: url('https://raw.githubusercontent.com/Adityaroman/Adityaroman/main/how-to-reach-bg.png');
+  background-size: cover;
+  background-position: center;
+  padding: 30px;
+  border-radius: 10px;
+">
+  <p style="font-size:18px; color:white; font-weight:bold;">
+    <a href="mailto:adityasharmagrd@gmail.com" style="color:#FFD700; text-decoration:none;">📧 Email</a> |
+    <a href="https://www.linkedin.com/in/adityasharmagrd/" style="color:#FFD700; text-decoration:none;">🔗 LinkedIn</a> |
+    <a href="https://adishots-8da27.web.app" style="color:#FFD700; text-decoration:none;">📄 My Resume</a>
+  </p>
 
-  <b>💌 Email:</b> <a href="mailto:adityasharmagrd@gmail.com">adityasharmagrd@gmail.com</a>  
-  <br><br>
-  <b>🔗 LinkedIn:</b> <a href="https://www.linkedin.com/in/adityasharmagrd/">Aditya Sharma</a>  
-  <br><br>
-  <b>📄 My Resume:</b> <a href="https://adishots-8da27.web.app">Click Here</a>  
-  <br><br>
-
-  <a href="https://www.linkedin.com/in/adityasharmagrd/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://github.com/Adityaroman" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/adityasharmagrd" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/Aditya_sharmagrd/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-
-</td>
-</tr>
-</table>
-</p>
+  <p>
+    <a href="https://www.linkedin.com/in/adityasharmagrd/">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/Adityaroman">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="40" width="40" />
+    </a>
+    &nbsp;
+    <a href="https://www.hackerrank.com/adityasharmagrd">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="40" width="40" />
+    </a>
+    &nbsp;
+    <a href="https://leetcode.com/u/Aditya_sharmagrd/">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" width="40" />
+    </a>
+  </p>
+</div>
 
 ---
 
