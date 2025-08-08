@@ -67,25 +67,28 @@
 </h3>
 
 <div align="center" style="
-    background-image: url('https://www.transparenttextures.com/patterns/diamond-upholstery.png');
-    background-color: #fefefe;
+    background-image: url('https://images.openai.com/thumbnails/url/rpycF3icu1mUUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw6JCizNTQ-JyI7PKjOqMCjwDTF0904Nyo_yNYkITXMPNKgq809K8i_ILMpLzw2qqCwLNjXMN0kziNBVKwYA4cApxg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
     border-radius: 12px;
-    padding: 20px;
-    max-width: 500px;
+    padding: 25px;
+    max-width: 550px;
     margin: auto;
     border: 2px solid #ff6600;
+    box-shadow: 0px 4px 12px rgba(0,0,0,0.15);
 ">
 
-<p style="font-size:16px;">
-💌 <b>Email:</b> <a href="mailto:adityasharmagrd@gmail.com" style="color:#000; font-weight:bold;">adityasharmagrd@gmail.com</a>
+<p style="font-size:17px; color:#000; font-weight:bold;">
+💌 Email: <a href="mailto:adityasharmagrd@gmail.com" style="color:#000; font-weight:bold;">adityasharmagrd@gmail.com</a>
 </p>
 
-<p style="font-size:16px;">
-🔗 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/adityasharmagrd/" style="color:#000; font-weight:bold;">Aditya Sharma</a>
+<p style="font-size:17px; color:#000; font-weight:bold;">
+🔗 LinkedIn: <a href="https://www.linkedin.com/in/adityasharmagrd/" style="color:#000; font-weight:bold;">Aditya Sharma</a>
 </p>
 
-<p style="font-size:16px;">
-📄 <b>My Resume:</b> <a href="https://adishots-8da27.web.app" style="color:#000; font-weight:bold;">Click Here</a>
+<p style="font-size:17px; color:#000; font-weight:bold;">
+📄 My Resume: <a href="https://adishots-8da27.web.app" style="color:#000; font-weight:bold;">Click Here</a>
 </p>
 
 </div>
